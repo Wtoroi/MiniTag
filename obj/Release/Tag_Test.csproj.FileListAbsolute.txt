@@ -1,0 +1,10 @@
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\bin\Release\Tag_Test.exe.config
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\bin\Release\Tag_Test.exe
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\bin\Release\Tag_Test.pdb
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.csprojAssemblyReference.cache
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.Form1.resources
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.Properties.Resources.resources
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.csproj.GenerateResource.cache
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.csproj.CoreCompileInputs.cache
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.exe
+E:\Б-А\MyPrograms\Funni_programs\Tag_Test\Tag_Test\obj\Release\Tag_Test.pdb
